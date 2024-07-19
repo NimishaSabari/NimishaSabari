@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **FullStack-WebDevelopment , DevOps**
 
-💬 Ask me about **Node.js, React, Docker or anything [here](https://github.com/NimishaSabari/NimishaSabari/issues)**
+💬 Ask me about ** React, Docker or anything [here](https://github.com/NimishaSabari/NimishaSabari/issues)**
 
 ⚡ Fun fact **"I turn caffeine into code, transforming sleepless nights into innovative solutions on my GitHub"**
 
@@ -27,9 +27,9 @@
   <a href="https://www.linkedin.com/in/nimishasabari/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="#" target="_blank">
+<!--   <a href="#" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
+  </a> -->
 </div>
 
  <hr/>
@@ -38,7 +38,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,mongodb,c,java,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=,python,javascript,express,mongodb,c,java,mysql" /><br>
 </div>
 
 <br/>
